@@ -1,0 +1,26 @@
+{
+  "name": "shape.me - Tu Rutina Personalizada",
+  "short_name": "shape.me",
+  "description": "Planes personalizados de entrenamiento, dieta y sueño para tus objetivos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#dc2626",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/df9ba9a0-a66a-46ad-9b65-d33c2ab2d619.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/9a96525f-be9a-4750-8325-a8b408e03b7d.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "fitness", "lifestyle"],
+  "lang": "es-ES"
+}
